@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @khuzamajutt
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning properly Angular
+- 👋 Hi, I’m khuzama jutt
 
 <!---
 khuzamajutt/khuzamajutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
